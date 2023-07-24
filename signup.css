@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: aqua;
+  background-image: url("pexels-bri-schneiter-346529.jpg");
+  background-size: cover;
+}
+.container {
+  width: 400px;
+  margin: 100px auto;
+  background-color: blueviolet;
+  text-align: center;
+  box-shadow: -5px 5px 3px 3px #11c845;
+  padding: 30px 7px;
+  border-radius: 25px;
+}
+form input {
+  height: 40px;
+  width: 250px;
+  text-align: center;
+  background-color: rgb(236, 249, 255);
+  border-radius: 5px;
+  margin: 5px 0;
+  border: 2px solid rgb(0, 0, 0);
+}
+input:hover {
+  border: 2px solid rgb(255, 0, 98);
+}
+button {
+  width: 30%;
+  background-color: aqua;
+  border-radius: 12px;
+  text-align: center;
+  font-weight: bold;
+  color: rgb(53, 52, 53);
+}
+label {
+  color: white;
+}
+a {
+  color: rgb(0, 179, 255);
+}
+button:hover {
+  color: rgb(225, 20, 20);
+}
+span {
+  color: white;
+}
+.big {
+  font-size: 80px;
+  margin: 10px;
+}

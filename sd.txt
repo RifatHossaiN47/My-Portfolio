@@ -1,0 +1,9 @@
+<i
+                class="fa-solid fa-square-phone text-warning"
+                style="font-size: 20px"
+              ></i>
+              <i class="fa-solid fa-paper-plane text-warning"></i>
+              <i class="fa-brands fa-square-facebook"></i>
+              <i class="fa-brands fa-square-twitter"></i>
+              <i class="fa-brands fa-linkedin"></i>
+              <i class="fa-brands fa-square-github"></i>
